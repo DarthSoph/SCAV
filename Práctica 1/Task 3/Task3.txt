@@ -1,0 +1,5 @@
+La imagen original tiene un tamaño de 47.7KB y la salida nueva en blanco y negro y comprimida tiene un
+tamaño de 36KB. De normal, al pasar la imagen a blanco y negro la imagen ya se comprime porque pierde los
+datos del color, pero además he aplicado una compresión a la imagen para que se comprima más aún. A priori,
+visualmente no parece haber cambio de calidad en la imagen, pero la calidad de la imagen original tampoco
+es muy buena.
