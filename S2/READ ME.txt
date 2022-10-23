@@ -1,0 +1,15 @@
+Trabajo en windows, así que para ejecutarlo con la consola de UBUNTU, hago SHIFT + click derecho dentro de
+la carpeta del proyecto y le doy a "Abrir shell de linux aquí". Entonces escribo en la consola
+"python3 main.py".
+
+Están todos los ejercicios juntos en el mismo código siguiendo el ejercicio opcional 5. Sale un menú con
+opciones para poder ejecutar todos los ejercicios por el orden que se quiera.
+
+Para que funcione todo, a parte del vídeo BBB necesito 2 vídeos más, que son:
+-Un corte del vídeo originalcon el que se hace el histograma (el cual se sobreescribe si se ejecuta primero
+el de cortar el vídeo).
+-Un vídeo con audio mono para poder hacer la conversión de mono a stereo sin haber hecho primero la otra.
+En el aula global he subido un zip que contiene los 3 vídeos, antes de ejecutar el código hay que
+descargarlos y meterlos en la carpeta del main.py.
+
+El menú es bastante intuítivo y tiene control de errores, para que no pete si se introduce algo no esperado.
